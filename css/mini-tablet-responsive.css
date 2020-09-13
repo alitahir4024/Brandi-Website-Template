@@ -1,0 +1,67 @@
+@media (min-width: 425px) and (max-width: 767px) {
+  .slide {
+    grid-template-rows: 60vh;
+  }
+
+  .slide-text > h1 {
+    font-size: 2.3rem;
+    line-height: 10vh;
+  }
+
+  .slide-text > p {
+    width: 80%;
+    font-size: 1.2rem;
+  }
+
+  .slide-text > ul {
+    padding-top: 1vh;
+  }
+
+  .features-info {
+    grid-template-columns: 85%;
+    grid-template-rows: repeat(3, 50vh);
+  }
+
+  .feature > span {
+    height: 55px;
+    width: 55px;
+  }
+
+  .feature > h2 {
+    font-size: 1.7rem;
+  }
+
+  .feature > p,
+  .works-section > p,
+  .our-team > p {
+    line-height: 6vh;
+    font-size: 16px;
+  }
+
+  .works-section > h1,
+  .our-team > h1 {
+    font-size: 2rem;
+  }
+
+  .team-members {
+    grid-template-columns: 0.8fr;
+    grid-template-rows: repeat(4, 58vh);
+  }
+
+  .fact > span {
+    height: 75px;
+    width: 75px;
+  }
+
+  .fact > h2 {
+    font-size: 2.5rem;
+  }
+
+  .fact > p {
+    font-size: 1.5rem;
+  }
+
+  .footer > img {
+    height: 13vh;
+  }
+}
