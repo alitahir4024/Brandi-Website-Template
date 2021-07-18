@@ -18,4 +18,4 @@ Brandi is an fully responsive mobile first website template.
 
 ## Project Preview:
 
-[Brandi Website Template](https://ali-tahir4024.github.io/Brandi-Website-Template/)
+[Brandi Website Template](https://alitahir4024.github.io/Brandi-Website-Template/)
